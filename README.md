@@ -1,1 +1,1 @@
-#This project is just for me to learn TailwindCSS
+# This project is just for me to learn TailwindCSS
